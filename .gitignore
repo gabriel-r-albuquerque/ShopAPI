@@ -62,6 +62,6 @@
 /.web-server-pid
 
 ### Environment file
-.env
+/.env
 
 /.idea/*
